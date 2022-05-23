@@ -1,4 +1,4 @@
-module banking-lib
+module github.com/ricardomaricato/banking-lib
 
 go 1.18
 
